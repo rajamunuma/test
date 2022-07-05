@@ -1,5 +1,6 @@
-<svg width="0" height="0" class="hidden">
+<svg id="Layer_1" version="1.1" width="0" height="0" class="hidden"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
 	
+
 <view id="icon-clock-view" viewBox="0 0 32 32" />
 <view id="icon-heart-view" viewBox="0 32 32 32" />
 <view id="icon-arrow-right-view" viewBox="0 64 32 32" />
